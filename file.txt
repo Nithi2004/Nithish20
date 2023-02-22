@@ -1,4 +1,13 @@
 this is a file
+<<<<<<< HEAD
 new lines
 on 
 wed
+=======
+which was edited
+on
+wednesday
+.
+!
+>>>>>>> e3ce422f5e002a7d1d49c68746c7597aa0f78ede
+changed coding
